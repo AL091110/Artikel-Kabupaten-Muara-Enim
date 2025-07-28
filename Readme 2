@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Artikel Kabupaten Muara Enim</title>
+  <style>
+     /* Desain header */
+    header {
+      background-image: url('https://giwang.sumselprov.go.id/api/uploads/destinations/destination_168788119750917.jpg');
+      background-size: cover;       /* agar gambar memenuhi seluruh area */
+      background-position: center;  /* agar posisi gambar di tengah */
+      color: white;
+      text-align: center;
+      padding: 100px 20px;
+    }
+
+    header h1 {
+      font-size: 48px;
+      margin: 0px
+    }
+
+    header p {
+      font-size: 1000px;
+      margin-top: 100px;
+    }
+
+    body {
+      margin: 100000px
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+  </header>
+
+</body>
+</html>
+
+  <header>
+    <h1>Selamat Datang</h1>
+  </header>
+
+  <main>
+    <h2>Perjuangan Melawan penjajah di Muara Enim dan Tanjung Enim</h2>
+    <p>Perjuangan melawan penjajah di wilayah Muara Enim dan Tanjung Enim melibatkan para pejuang lokal dan tokoh-tokoh seperti Puyang Rentul Panji Alam, Puyang Kepiri, Puyang Rabul, Puyang Sangin, Kapten Idham, dan lainnya yang mempertahankan kemerdekaan Indonesia selama masa revolusi fisik dan melawan penjajah Belanda serta Jepang. <p>
+<p>•Perjuangan Melawan Penjajah di Muara Enim dan Tanjung Enim<p>
+<p>Masa Hindia Belanda dan Jepang:
+Wilayah Muara Enim, termasuk daerah yang kemudian menjadi Tanjung Enim, telah menjadi lokasi aktivitas pertambangan batubara yang dikuasai oleh Belanda sejak tahun 1919 di Bukit Asam. Penemuan antrasit di sana pada tahun 1918 oleh ahli pertambangan Belanda, R. Everwijn, memicu pendirian tambang batubara yang awalnya untuk kebutuhan kolonial Belanda. <p>
+<p>•Perlawanan Tokoh Lokal<p>
+<p>Tokoh-tokoh seperti Puyang Rentul Panji Alam, Puyang Kepiri, dan Puyang Rabul mempertahankan benteng Aur Duri (Aik Enim Dik Beghikan). Puyang Sangin dari Muara Tenang juga berjuang melawan Belanda di Kecamatan Tanjung Agung Enim. <p>
+<p>• Revolusi Fisik<p>
+<p>Setelah proklamasi kemerdekaan, rakyat Muara Enim, termasuk badan keamanan, pemuda, dan masyarakat, berjuang melawan sekutu demi mempertahankan kemerdekaan Indonesia. Beberapa pejuang Semende yang terkenal dari masa ini antara lain Kapten Idham dari Pulau Panggung, Kapten H. M. Ichsan dari Tanjung Laut, Letnan Muis dari Pulau Panggung, Kol. TNI. (Purn) H. A. Zaidin dari Muara Tenang, dan Letkol. TNI (Purn) H. M. Badri dari Pulau Panggung. <p>
+<p>•Perubahan Status Pertambangan.<p>
+<p>Setelah kekuasaan kolonial Belanda berakhir, para karyawan tambang Indonesia berjuang menuntut perubahan status tambang menjadi pertambangan nasional, yang kemudian menjadi PT Bukit Asam (Persero) Tbk. Meskipun demikian, hingga saat ini masih terdapat isu mengenai tambang rakyat di Muara Enim yang berbenturan dengan PT Bukit Asam, menurut Project Multatuli. <p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</body>
+    <button onclick="alert('Terima kasih telah berkunjung!')">Klik Aku</button>
+  </main>
+
+<p><a href="halaman 3.html">Ke Halaman Ketiga</a> <p>
+
+
+  <footer>
+    ©  2025 Dibuat oleh AL 
+  </footer>
+
+</body>
+</html>
